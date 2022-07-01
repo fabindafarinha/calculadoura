@@ -1,0 +1,31 @@
+*{
+    margin: 50px;
+    padding:0;
+}
+
+ 
+.main{
+    background-image: url(../pedreirocalc/acdc.jpg);
+    color:#fff;
+    height: auto;
+    width: 270px;
+    padding: 20px;
+    border-radius: 70px;
+    text-align: center;
+    /* principal: ajuste calculadora: fundos, bordas, ajustes, espaçamento entre botões, alinhamento*/
+    margin: auto;
+    /* principal: ajustando calculadora centralizando na visualização do navegador */
+}
+
+.btn{
+    height: auto;
+    width: 40px;
+  background-color: red;
+    /* botôes: ajuste de tamanho padronizado*/
+}
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
