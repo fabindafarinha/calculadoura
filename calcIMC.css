@@ -1,0 +1,38 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(../img/horta.jfif/);
+    background-repeat: repeat-y;
+    background-size: 900px 420px;
+    background-position: center;
+    text-align: center;
+    color: rgb(0, 183, 255)
+    
+}
+.e-mail{
+    padding: 5px;
+    margin: 150px;
+    background-color:black;
+    text-align:center;
+    font-size: 2vw;
+}
+
+button{
+    position: relative;
+    text-align: center;
+    left:25px;
+    height: auto;
+}
+    
+.title{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(rgb(203, 228, 63), rgb(127, 250, 244), rgb(238, 110, 185));
+
+    
+}
+input{
+    font-size: 3vw;
+    left: 2vw;
+}
+
+
+
